@@ -28,8 +28,8 @@ Returns:
   ]
 ]```
 
-The first element in the list is the book title passed into the function. The second element in the list is a list of five more lists. Each of the five lists contains a recommended book and the distance from the recommended book to the book passed into the function.
+The first element in the list is the book title passed into the function. 
+The second element in the list is a list of five more lists.
+Each of the five lists contains a recommended book and the distance from the recommended book to the book passed into the function.
 
-*This project is part of  Machine Learning Certification by [freeCodeCamp][1].*
-
-[1]: https://www.freecodecamp.org/learn/machine-learning-with-python
+This project is part of  Machine Learning Certification by [freeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python). 
