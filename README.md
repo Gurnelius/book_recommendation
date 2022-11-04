@@ -1,7 +1,7 @@
 
 # Book Recommendation using K-Nearest Neighbors
 
-In this challenge, you will create a book recommendation algorithm using K-Nearest Neighbors.
+In this challenge, we create a book recommendation algorithm using K-Nearest Neighbors.
 
 ## About the dataset
 The project uses the Book-Crossings dataset. This dataset contains 1.1 million ratings (scale of 1-10) of 270,000 books by 90,000 users.
@@ -30,4 +30,6 @@ Returns:
 
 The first element in the list is the book title passed into the function. The second element in the list is a list of five more lists. Each of the five lists contains a recommended book and the distance from the recommended book to the book passed into the function.
 
-*This project is part of [freeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python/)'s Machine Learning Certification.*
+*This project is part of [freeCodeCamp][1]'s Machine Learning Certification.*
+
+[1]: https://www.freecodecamp.org/learn/machine-learning-with-python
