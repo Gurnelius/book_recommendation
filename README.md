@@ -17,7 +17,8 @@ This code:
 
 Returns:
 
-```[
+```
+[
   'The Queen of the Damned (Vampire Chronicles (Paperback))',
   [
     ['Catch 22', 0.793983519077301], 
@@ -26,10 +27,13 @@ Returns:
     ['The Tale of the Body Thief (Vampire Chronicles (Paperback))', 0.5376338362693787],
     ['The Vampire Lestat (Vampire Chronicles, Book II)', 0.5178412199020386]
   ]
-]```
+]
+```
 
 The first element in the list is the book title passed into the function. 
 The second element in the list is a list of five more lists.
-Each of the five lists contains a recommended book and the distance from the recommended book to the book passed into the function.
+Each of the five lists contains a recommended book and the distance
+from the recommended book to the book passed into the function.
 
-This project is part of  Machine Learning Certification by [freeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python). 
+This project is part of  Machine Learning Certification by 
+[freeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python). 
